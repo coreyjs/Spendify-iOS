@@ -4,7 +4,7 @@ Spendify
 iOS Application
 -----
 
-![Spendify](http://spendify.blaqksheep.com/images/spendify/Spendify10.png, "Spendify")
+![Spendify](http://spendify.blaqksheep.com/images/spendify/Spendify10.png "Spendify")
 
 Let’s face it, money is history. In this day and age, more and more people are choosing debit and credit cards over cash. Credit cards are fast, easy and accepted almost anywhere you shop. 
 
